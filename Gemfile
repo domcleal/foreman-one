@@ -13,5 +13,5 @@ gemspec
 # To use debugger
 # gem 'debugger'
 
-gem "fog", :git => "https://github.com/netways/fog.git", :branch => "net-v1.21.0"
+gem "fog", :git => "https://github.com/netways/fog.git", :branch => "devel"
 
